@@ -1,5 +1,19 @@
-## Hi, I'm Sam 👋
----
+<h1 align="center">👋 Hello There! I’m Sam</h1>
+<p align="center">IT Service Management Professional from the UK</p>
 
-<img align="center" alt="Github Stats - Sam Parris" src="https://github-readme-stats.vercel.app/api?username=SamParris&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamParris&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=SamParris&theme=dark" style="max-width:100%;">
+## About Me!
+
+I'm an IT Service Management Professional, with a love for all things PowerShell and Sysadmin Automation!
+
+<p align="center">
+<h3>Tools & Technologies</h3>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,md,powershell,vscode,windows" />
+  </a>
+</p>
+
+<p align="center">
+<h2>My Github Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=SamParris&custom_title=My+Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=388286&title_color=8957e5&icon_color=1f6feb">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamParris&layout=compact&hide_border=true&bg_color=00000000&text_color=388286&custom_title=My Languages&title_color=8957e5">
+</p>
