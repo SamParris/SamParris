@@ -7,7 +7,7 @@
 
 I'm an IT Service Management Professional, with a love for all things PowerShell and Sysadmin Automation!
 
-## Tools & Technologies
+<h2>🛠️ Tools & Technologies 🛠️</h2>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,md,powershell,vscode,windows" />
 
 ## My Github Stats
