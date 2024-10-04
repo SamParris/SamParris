@@ -13,5 +13,5 @@ I'm an IT Service Management Professional, with a love for all things PowerShell
   </a>
 
 ## My Github Stats
-<img width="406" src="https://github-readme-stats.vercel.app/api?username=SamParris&custom_title=My+Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=388286&title_color=8957e5&icon_color=1f6feb">
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamParris&layout=compact&hide_border=true&bg_color=00000000&text_color=388286&custom_title=My Languages&title_color=8957e5">
+<img alt="Sam's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=SamParris&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
+<img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamParris&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
