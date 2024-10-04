@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hello There! I’m Sam</h1>
+<h1>Hello There! I’m Sam 👋</h1>
 <p>IT Service Management Professional from the UK</p>
 
 ## About Me!
