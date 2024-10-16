@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hello There!! 👋</h1>
+<h1>Hello There! 👋</h1>
 
 I'm an IT Service Management Professional, with a love for all things PowerShell and Sysadmin Automation!
 
